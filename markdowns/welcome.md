@@ -1,5 +1,5 @@
 <?php
 function echo(){
-    print("Hello World");
+    echo("Hello World");
 }
 ?>
