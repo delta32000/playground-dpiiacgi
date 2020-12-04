@@ -1,1 +1,3 @@
-/* TOTO */
+function echo(){
+    print("Hello World");
+}
