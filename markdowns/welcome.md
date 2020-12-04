@@ -2,9 +2,10 @@
 <html>
 <body>
 
-<?php
-echo "My first PHP script!";
-?>
+<SELECT>
+	<OPTION value="1">1 impair</OPTION>
+	<OPTION value="2">2 pair</OPTION>
+</SELECT>
 
 </body>
 </html> 
